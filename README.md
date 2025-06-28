@@ -1,13 +1,30 @@
-# Hi there, I'm Rafi Mahmud Tumon 👋
+# Rafi Mahmud Tumon
 
-## About Me
-- 🎓 Master's candidate in Geodesy and Geoinformation Science at Technical University Berlin
-- 🔭 Currently working on geospatial data analysis and Python automation at OXG Glasfaser GmbH
-- 🌱 Specializing in GIS, remote sensing, and deep learning for geographical data
-- 💡 Passionate about leveraging geospatial technology for infrastructure planning and environmental analysis
-- 📍 Based in Berlin, Germany
-- 📫 How to reach me: rmtumon@gmail.com
-- ⚡ Fun fact: I improved operational efficiency by 20% through automated Python models and QGIS workflows
+<div align="left">
+  
+## 👋 About Me
+**Master's candidate in Geodesy and Geoinformation Science**  
+Technical University Berlin
+
+🔭 Currently working on geospatial data analysis and Python automation at **OXG Glasfaser GmbH**  
+🌱 Specializing in **GIS, remote sensing, and deep learning** for geographical data  
+💡 Passionate about leveraging geospatial technology for infrastructure planning and environmental analysis  
+📍 **Berlin, Germany**  
+⚡ Fun fact: I improved operational efficiency by **20%** through automated Python models and QGIS workflows
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafi-mahmud-81171a14b)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafimt)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmtumon@gmail.com)
+
+## 🗣️ Languages
+🇧🇩 **Bengali** (Native)  
+🇺🇸 **English** (Fluent)  
+🇩🇪 **German** (Basic)
+
+</div>
+
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -40,8 +57,12 @@
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
 ## 📊 GitHub Stats
+<div align="center">
+  
 ![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafimt&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafimt&layout=compact&theme=radical)
+
+</div>
 
 ## 🚀 Featured Projects
 
@@ -86,15 +107,9 @@
 - Real-time geospatial data streaming and analysis
 - Modern web frameworks for GIS applications
 
-## 🗣️ Languages
-- 🇧🇩 Bengali (Native)
-- 🇺🇸 English (Fluent)
-- 🇩🇪 German (Basic)
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafi-mahmud-81171a14b)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rafimt)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rmtumon@gmail.com)
-
 ---
+<div align="center">
+  
 *"Leveraging geospatial technology to solve real-world infrastructure and environmental challenges"*
+
+</div>
